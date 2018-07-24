@@ -2,4 +2,4 @@
 
 apt-get update
 apt-get upgrade
-apt-get install htop nano 
+apt-get install htop nano atool
